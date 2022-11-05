@@ -37,7 +37,9 @@ Dalam Projek kali ini dilakukan bebera langkah pengerjaan sebagai berikut:
 
 ## Hasil yang diperoleh
 Dari Elbow method diperoleh bahwa cluster yang optimal ada 5 yang kemudian divalidasi dengan Silhouette Score  
+### Elbow Method
 ![ELBOW](https://user-images.githubusercontent.com/78085127/200121096-c5b531d3-e521-496f-9a45-c29811cf6b78.png)
+### Silhouette Score
 ![SILHOUTE](https://user-images.githubusercontent.com/78085127/200121138-a157e414-6cd9-48a9-bc32-1a4241467cb1.png)
 
 ### Visualisasi dengan PCA menggunakan Scatterplot
