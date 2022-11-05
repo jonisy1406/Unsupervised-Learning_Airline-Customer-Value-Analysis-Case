@@ -1,4 +1,14 @@
 # Airline Customer Value Analysis Case with K-Means Clustering  
+Kelompok 7:  
+1. Tirto Fadhlan
+2. Ferry Chando 
+3. Yosabad Torando
+4. Calvin Aziszam
+5. Inggo Landa 
+6. Joni Syofian 
+7. Nur Fatin M 
+8. Dwi Chandra
+
 Deskripsi dataset:  
 > Dataset ini berisi data customer sebuah perusahaan penerbangan dan beberapa fitur yang dapat menggambarkan value dari customer tersebut. Setiap baris mewakili customer, setiap kolom berisi atribut customer.
 
