@@ -36,6 +36,11 @@ Dalam Projek kali ini dilakukan bebera langkah pengerjaan sebagai berikut:
 * **Interpretasi cluster** yang dihasilkan secara bisnis dan rekomendasi yang sesuai dengan cluster yang dihasilkan  
 
 ## Hasil yang diperoleh
+Dari Elbow method diperoleh bahwa cluster yang optimal ada 5 yang kemudian divalidasi dengan Silhouette Score  
+![ELBOW](https://user-images.githubusercontent.com/78085127/200121096-c5b531d3-e521-496f-9a45-c29811cf6b78.png)
+![SILHOUTE](https://user-images.githubusercontent.com/78085127/200121138-a157e414-6cd9-48a9-bc32-1a4241467cb1.png)
+
+### Visualisasi dengan PCA menggunakan Scatterplot
 ![PCA](https://user-images.githubusercontent.com/78085127/200120890-f0a55890-4a73-4872-9e83-6e3886d4d85c.png)
 Diperoleh jumlah customer dan persentasenya untuk masing-masing cluster yang menunjukkan bahwa persebaran customer cukup merata:
 * cluster 1	sebanyak 12500 customer (22.64%)
