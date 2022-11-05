@@ -1,5 +1,5 @@
 # Airline Customer Value Analysis Case with K-Means Clustering  
-Kelompok 7:  
+Kelompok 7 Fortune:  
 1. Tirto Fadhlan
 2. Ferry Chando 
 3. Yosabad Torando
